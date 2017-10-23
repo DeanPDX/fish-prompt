@@ -1,2 +1,2 @@
 # fish-prompt
-My fish prompt
+This is a repo to track my personal [fish shell](https://fishshell.com/) prompt. It is based on the default [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh) prompt by [Robby Russell](https://github.com/robbyrussell). Specifically, it is based on the [fish port of that prompt](https://github.com/fish-shell/fish-shell/blob/85cd372a4ecdc95e68139e87892437f7ecc66809/share/tools/web_config/sample_prompts/robbyrussell.fish).
